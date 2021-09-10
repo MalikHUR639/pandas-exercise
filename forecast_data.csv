@@ -1,0 +1,17 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Chance Precipitation (%),Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Lahore, Pakistan",09-01-21,86.6,85.2,85.9,,90.4,0,0,0,0,7.8,141.3,17.9,15,0,56.7,Clear
+"Lahore, Pakistan",09-02-21,101.2,80.3,90.3,,103.6,9.5,0,0,0,5.9,124.8,20.6,15,31,48.3,Partially cloudy
+"Lahore, Pakistan",09-03-21,100.8,81.6,90.7,,103.2,47.5,0.01,0,0,5.6,117.7,13.9,15,92.5,45.6,Overcast
+"Lahore, Pakistan",09-04-21,104.8,83.9,93.5,,107.3,28.6,0,0,0,4.3,186.9,17.7,15,26.2,41.6,Partially cloudy
+"Lahore, Pakistan",09-05-21,109.5,85.2,95.8,,111.5,9.5,0,0,0,7.3,201.2,20.4,15,4.1,39.2,Clear
+"Lahore, Pakistan",09-06-21,109.3,86.1,96.6,,112.8,0,0,0,0,6.5,163.2,20.4,15,2.7,38.7,Clear
+"Lahore, Pakistan",09-07-21,108.1,77.6,93.6,,112.4,28.6,0.65,0,0,8.5,161.2,32.7,7.9,37.1,47.3,Partially cloudy
+"Lahore, Pakistan",09-08-21,87.5,78,81,,94.9,52.4,0.09,0,0,9.1,101,22.8,8.9,67.3,79.3,"Rain, Partially cloudy"
+"Lahore, Pakistan",09-09-21,82.8,75.3,78.9,,89.1,61.9,0.56,0,0,6.3,120.5,16.1,6.1,94.3,82.9,"Rain, Overcast"
+"Lahore, Pakistan",09-10-21,92,74.4,83.5,,97.9,81,0.17,0,0,7.2,95.9,17.7,12.6,72.9,69.6,"Rain, Partially cloudy"
+"Lahore, Pakistan",09-11-21,97.4,80.5,88.7,,104,76.1,0,0,0,5.3,139.3,18.8,15,46.3,57.9,"Rain, Partially cloudy"
+"Lahore, Pakistan",09-12-21,93.3,80,85.8,,100.9,42.9,0.04,0,0,7.8,104.7,19.2,11.8,59.4,65.6,Partially cloudy
+"Lahore, Pakistan",09/13/2021,93.3,78.2,86.6,,101.6,61.9,0.07,0,0,5.2,108.9,10.5,15,15.9,64.1,Rain
+"Lahore, Pakistan",09/14/2021,96.9,80.1,88.2,,103.6,42.9,0.08,0,0,5.5,119.3,11,11.5,60,60.7,Partially cloudy
+"Lahore, Pakistan",09/15/2021,95.3,77.8,85.2,,103.2,33.2,0.27,0,0,7.4,128.2,13.9,8.5,48.9,69.1,Partially cloudy
+"Lahore, Pakistan",09/16/2021,90.2,79.4,84.7,,97.5,33.2,0.01,0,0,3.5,81.2,5.9,15,44.5,66.2,Partially cloudy
